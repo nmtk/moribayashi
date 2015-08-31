@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
    get "users/new"
   
   root  'static_pages#home'
